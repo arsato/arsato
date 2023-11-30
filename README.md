@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariel Sandoval Toro</h1>
 <h3 align="center">A passionate Fullstack developer from Chile.</h3>
 
-- 🌱 I’m currently learning **MongoDB, NEXT.js**
+- 🌱 I’m currently learning **Typescript, NestJS**
 
 - 📫 How to reach me **arsatoji@gmail.com**
 
